@@ -1,0 +1,5 @@
+﻿  TheClaw.cpp
+f:\projects\commandtest\commandtest\theclaw.cpp(11): warning C4700: uninitialized local variable 'Device' used
+f:\projects\commandtest\commandtest\theclaw.cpp(19): warning C4700: uninitialized local variable 'format' used
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+F:\Projects\commandtest\Debug\commandtest.exe : fatal error LNK1120: 1 unresolved externals
